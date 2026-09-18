@@ -1,5 +1,20 @@
-# 💫 About Me:
-Hi, there! It's Tanure!<br><br>About Me<br>I am Tanure, a recent master's graduate in Data Science from the University of Sheffield, United Kingdom, where I deepened my knowledge and skills in data mining, predictive analytics, and big data. With hands-on experience from companies like Niche Limited & personal projects, I have honed my abilities in optimizing data pipelines, conducting data correlations analysis, and creating impactful data visualisations. My passion lies in using data-driven insights to solve complex problems and drive business strategies. I'm proficient in Python, SQL, R, and various data visualization tools, and I'm always eager to learn and explore the latest trends in data science and machine learning. Let's connect and explore the fascinating world of data together!<br><br>My Interests<br>Machine Learning & AI: Building models that solve real-world problems.<br>Big Data Analytics: Leveraging tools like Hadoop and Spark for data processing.<br>Data Visualisation: Creating impactful visual stories with Tableau and Power BI.<br>Healthcare $ Air pollution Analytics: Applying data science to improve patient and air quality outcomes.<br>Generative AI: Prompt Engineering.<br><br>Skills<br>Programming languages: Python, SQL, R<br>Data Visualisation/Business Intelligence: Excel, Tableau, Power BI, Matplotlib<br>Data Analysis/Machine Learning/Deep Learning: Scikit-Learn, TensorFlow, PyTorch, Keras, NumPy, Pandas, NLTK<br>Big Data/Cloud Computing: AWS, Git, Spark, Hadoop, DataBricks<br>Generative AI/ LLM: Prompt engineering
+Hi, there! It's Tanure!
+🚀 About Me
+I am Tanure, a recent master's graduate in Data Science from the University of Sheffield, United Kingdom, where I deepened my knowledge and skills in data mining, predictive analytics, and big data. With hands-on experience at companies such as Niche Limited and through personal projects, I have honed my ability to optimise data pipelines, conduct correlation analysis, and create impactful data visualisations. I'm passionate about using data-driven insights to solve complex problems and drive business strategy. I'm proficient in Python, SQL, R, and various data visualisation tools, and I'm always eager to learn and explore the latest trends in data science and machine learning. Let's connect and explore the fascinating world of data together!
+🔭 My Interests
+•	Machine Learning & AI: Building models that solve real-world problems.
+•	Big Data Analytics: Leveraging tools like Hadoop and Spark for data processing.
+•	Data Visualisation: Creating impactful visual stories with Tableau and Power BI.
+•	Healthcare $ Air Pollution Analytics: Applying data science to improve patient and air quality outcomes.
+•	Generative AI: Prompt Engineering.
+🔨 Skills
+•	Programming languages: Python, SQL, R
+•	Data Visualisation/Business Intelligence: Excel, Tableau, Power BI, Matplotlib
+•	Data Analysis/Machine Learning/Deep Learning: Scikit-Learn, TensorFlow, PyTorch, Keras, NumPy, Pandas, NLTK
+•	Big Data/Cloud Computing: AWS, Git, Spark, Hadoop, DataBricks
+•	Generative AI/ LLM: Prompt engineering
+
+
 
 
 ## 🌐 Socials:
